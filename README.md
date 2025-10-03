@@ -41,7 +41,7 @@
 
 ## 🌐 Connect With Me  
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/harsh-kumar-927aa3256))  
+- 💼 [LinkedIn](ttps://www.linkedin.com/in/your-link](https://www.linkedin.com/in/harsh-kumar-927aa3256)  
 - 📫 Email: **harshkumar010377@gmail.com**  
 
 ---
