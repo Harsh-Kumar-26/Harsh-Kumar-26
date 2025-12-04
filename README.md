@@ -12,10 +12,10 @@
   A **production-ready MERN social platform for developers**.  
   Features: JWT authentication, Cloudinary media storage, Razorpay integration, real-time communication with Socket.IO.  
   *(Frontend on Vercel | Backend on Render)*
-
-  - **[Peerdrop](https://peerdrop-nt51.vercel.app/)**  
+  
+- **[Peerdrop](https://peerdrop-nt51.vercel.app/)**  
   A **production-ready MERN based P2P file transfer platform using webrtc**.  
-  Features: secure peer connections via STUN/TURN, encrypted file transfer, room-based sharing, progress tracking, device-to-device compatibility, and optimized fallback       handling for restrictive networks.
+  Features: secure peer connections via STUN/TURN, encrypted file transfer, room-based sharing, progress tracking, device-to-   device compatibility, and optimized fallback handling for restrictive networks.
   *(Frontend on Vercel | Backend on Render)* 
 
 - **VisionVault** *(Work in progress)*  
